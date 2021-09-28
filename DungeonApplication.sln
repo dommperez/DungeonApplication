@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonProgram", "DungeonProgram\DungeonProgram.csproj", "{01525A35-5BFC-436C-B0EE-0925260DAB97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01525A35-5BFC-436C-B0EE-0925260DAB97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01525A35-5BFC-436C-B0EE-0925260DAB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01525A35-5BFC-436C-B0EE-0925260DAB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01525A35-5BFC-436C-B0EE-0925260DAB97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93CA38C-65DD-4A9B-8C4B-DEC37CF2D6C4}
+	EndGlobalSection
+EndGlobal
